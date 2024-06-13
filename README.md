@@ -11,4 +11,5 @@
 - beijinhos malu <3 <3 <3 
 - se escrever no site
 - abre aplicativo
+- git fetch (para descobrir oq foi feito no site)
 - git pull
