@@ -20,3 +20,5 @@
 - git branch [nome da branch] -> cria uma nova branch (ex. testing)
 - git checkout [nome da branch] -> move sua HEAD para outra branch (ex. testing)
 - file ".gitignore" cria um arquivo ignorado pelo .git
+- git merge [nome da branch] -> merge a branch atual com a branch indicada
+- FIM DO MÓDULO GIT -> Acabou a aula
