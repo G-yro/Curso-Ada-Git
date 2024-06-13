@@ -16,3 +16,7 @@
 - git restore -> ctrl z das programações
 - git diff -> mostra diferenças anteriores do aplicativo (vermelho: removido / verde: adicionado)
 - git log -> log de mudanças
+- git log --oneline --decorate -> mostra a branch da HEAD (normalmente master)
+- git branch [nome da branch] -> cria uma nova branch (ex. testing)
+- git checkout [nome da branch] -> move sua HEAD para outra branch (ex. testing)
+- file ".gitignore" cria um arquivo ignorado pelo .git
