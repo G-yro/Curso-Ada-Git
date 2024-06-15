@@ -5,4 +5,4 @@
 print('Pussy Pussy Malvadão')
 print('Pussy Pussy da tropa do ponto')
 
-input('Se eu fodo?')
+input('Se eu fodo? ')
